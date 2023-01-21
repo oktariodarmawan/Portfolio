@@ -13,3 +13,19 @@ body {
 section {
   padding-top: 5rem;
 }
+
+#experiences {
+  background-color: #e2edff;
+}
+
+a {
+  color: black;
+}
+
+#projects {
+  background-color: #ffffff;
+}
+
+#skills {
+  background-color: #e2edff;
+}
